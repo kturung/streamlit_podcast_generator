@@ -15,7 +15,10 @@ This application is a podcast generator that uses AI to generate dialogues for a
 
 ## Prerequisites
 
-Before running the application, you need to have  `ffmpeg`  installed on your system.  `ffmpeg`  is a free and open-source software project consisting of a large suite of libraries and programs for handling video, audio, and other multimedia files and streams.
+Before running the application, ensure that you meet the following prerequisites:
+
+- You need to have `ffmpeg` installed on your system. `ffmpeg` is a free and open-source software project consisting of a large suite of libraries and programs for handling video, audio, and other multimedia files and streams.
+- Your system should have at least 4GB of VRAM as the application uses a local TTS model which is resource-intensive.
 
 ### Installing ffmpeg
 

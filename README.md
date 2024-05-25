@@ -1,6 +1,6 @@
 # Podcast Generator
 
-This application is a podcast generator that uses AI to generate dialogues for a podcast based on user inputs. It is built with Python and uses the Streamlit library for the web interface, the Groq library for AI dialog generation, and the TTS (Text-to-Speech) library for generating audio from the generated dialogues.
+This application is a podcast generator that works %100 locally on your computer. It uses Phidata assistant client to generate dialogues for a podcast based on user inputs. It is built with Python and uses the Streamlit library for the web interface, llama3-8b-instruct model for AI dialog generation, and the TTS (Text-to-Speech) library for generating audio from the generated dialogues.
 
 ![Podcast Generator](https://i.ibb.co/gZJJYXT/Ekran-g-r-nt-s-2024-05-21-201959.png)
 

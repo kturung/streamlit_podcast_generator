@@ -17,6 +17,7 @@ This application is a podcast generator that works %100 locally on your computer
 
 Before running the application, ensure that you meet the following prerequisites:
 
+- Download and install Ollama from https://ollama.com/
 - You need to have `ffmpeg` installed on your system. `ffmpeg` is a free and open-source software project consisting of a large suite of libraries and programs for handling video, audio, and other multimedia files and streams.
 - Your system should have at least 4GB of VRAM as the application uses a local TTS model which is resource-intensive.
 

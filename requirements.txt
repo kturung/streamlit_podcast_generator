@@ -1,5 +1,5 @@
-groq==0.6.0
+phidata==2.3.90
+pydantic==2.7.1
 streamlit==1.29.0
 torch==2.2.0+cu121
 TTS==0.22.0
-
